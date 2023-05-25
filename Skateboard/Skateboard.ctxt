@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Skateboard
+comment1.params=position\ name\ age\ eventPlace\ ID\ origin\ minutes
+comment1.target=Skateboard(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=int\ runPoints()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=position\ name\ age\ eventPlace\ ID\ origin\ minutes
+comment2.target=void\ setAll(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getPosition()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getAge()
+comment6.params=
+comment6.target=java.lang.String\ getEventPlace()
+comment7.params=
+comment7.target=int\ getID()
+comment8.params=
+comment8.target=java.lang.String\ getOrigin()
+comment9.params=
+comment9.target=int\ getMinutes()
+numComments=12

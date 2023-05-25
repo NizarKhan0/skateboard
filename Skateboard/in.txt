@@ -1,0 +1,10 @@
+Skater;Aurelien Giraud;20;Arizona;2000;France;120
+Skater;Vincent Milou;24;Japan;2001;France;65
+Crew;Miller;21;Arizona;1000;USA;110
+Skater;Sean Malto;24;Japan;2002;USA;100
+Crew;Mason;59;Japan;1001;USA;56
+Crew;Liam;24;Japan;1003;England;23
+Crew;Dillon;20;Arizona;1004;Canada;10
+Skater;Sora Shirai;22;Arizona;2003;Japan;45
+Skater;Shane Oneill;31;Arizona;1989;Canada;120
+Skater;Chris Cole;39;Arizona;1980;USA;119

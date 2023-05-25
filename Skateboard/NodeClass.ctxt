@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NodeClass
+comment1.params=data
+comment1.target=NodeClass(Skateboard)
+comment2.params=o\ nextNode
+comment2.target=NodeClass(Skateboard,\ NodeClass)
+comment3.params=
+comment3.target=Skateboard\ getObject()
+comment4.params=
+comment4.target=int\ countNodes()
+comment5.params=
+comment5.target=NodeClass\ getLink()
+numComments=6
